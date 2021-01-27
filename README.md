@@ -2,7 +2,7 @@
 Voor dit vak moest ik gebruik maken van een framework om een client-side applicatie te maken die data dynamisch rendert. Helaas is het mij niet gelukt om het met D3 te doen, dus heb ik zoveel mogelijk gekeken naar components en heb ik wel een klein stukje waar data veranderd. **De grafieken zijn door Naomi zelf gemaakt met de data van RDW**
 
 ## Concept
-De auto in de stad - het thema dat we hebben gekregen van de Volkskrant. Ik heb voor het vorig vak Functional Programming en Frontend Data met de data gewerkt over gekentekende voertuigen. Deze heb ik toen gefilterd naar alleen personenauto's. Van de personenauto's heb ik gekeken naar kleuren en automerken. Mijn onderzoeksvraag is: **Wat voor personenauto zien we het meest in Nederland?**
+De auto in de stad - het thema dat we hebben gekregen van de Volkskrant. Ik heb voor het vorig vak Functional Programming en Frontend Data met de data gewerkt over [gekentekende voertuigen](https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2). Deze heb ik toen gefilterd naar alleen personenauto's. Van de personenauto's heb ik gekeken naar kleuren en automerken. Mijn onderzoeksvraag is: **Wat voor personenauto zien we het meest in Nederland?**
 
 Eerst laat ik zien hoeveel kleuren en automerken er zijn en vervolgens combineer ik deze twee data in een stacked barchart. 
 
