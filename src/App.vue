@@ -33,7 +33,7 @@ export default {
   body{
     font-family: 'Montserrat', sans-serif;
     background-color: #f4f4f4;
-    width: 50%;
+    width: 55%;
     margin: 2em auto;
   
   }
