@@ -6,7 +6,6 @@
     <section>   
         <chart-title>In de grafiek hieronder kun je zien welke kleuren en automerken populair zijn onder personenauto’s in Nederland.</chart-title>
         <ChangeChart />
-        <Info />
     </section>
     
     <conclusion>

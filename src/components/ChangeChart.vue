@@ -3,17 +3,19 @@
         <v-btn v-if="image" :key="image.id" @click="showColor" :src="image.src">Kleuren</v-btn>  
         <v-btn v-if="image" :key="image.id" @click="showBrand" :src="image.src">Automerken </v-btn>
     </div>
-        
+    <Info />
     <img v-if="image" :key="image.id" :src="image.src">
 </template>
 
 <script>
 import Button from './Button'
+import Info from './Info'
 
 export default {
     name: "ChangeChart",
     components: {
         'v-btn' :  Button,
+        Info
     },
     data(){
         // https://stackoverflow.com/questions/61728016/vue-js-change-image-src-with-a-click
